@@ -34,6 +34,8 @@
 #define SQLITE3_H
 #include <stdarg.h>     /* Needed for the definition of va_list */
 
+#include <sqlite_export.h>
+
 /*
 ** Make sure we can call this stuff from C++.
 */
